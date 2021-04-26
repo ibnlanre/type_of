@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "lib": ["esnext", "dom"],
+    "module": "esnext",
+    "strict": true,
+    "inlineSources": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "declaration": true,
+  },
+}
