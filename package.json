@@ -3,10 +3,14 @@
   "version": "0.0.1",
   "description": "A utility for retrieving the type of a JS value",
   "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "type": "module",
   "scripts": {
     "dev": "npm i -D typescript rollup @wessberg/rollup-plugin-ts rollup-plugin-terser",
-    "publish": "npm publish --access public",
     "build": "rollup -c"
   },
   "repository": {
@@ -20,7 +24,7 @@
     "check",
     "constructor"
   ],
-  "author": "Ridwan Olanrewaju",
+  "author": "Ridwan Olanrewaju <olaitanlanre28@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ibnlanre/type_of/issues"
