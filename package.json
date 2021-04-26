@@ -11,6 +11,7 @@
   "type": "module",
   "scripts": {
     "dev": "npm i -D typescript rollup @wessberg/rollup-plugin-ts rollup-plugin-terser",
+    "push": "npm publish --access public",
     "build": "rollup -c"
   },
   "repository": {
