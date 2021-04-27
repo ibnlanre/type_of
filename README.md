@@ -65,4 +65,3 @@ typeOf(new Map()) // map
 | (function() { return arguments })() | object |
 | JSON | object |
 | Symbol("bar") | symbol |
-
