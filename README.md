@@ -5,7 +5,7 @@ A utility for retrieving the type of a JS value
 ## Install
 
 ```bash
-npm i @ibnlanre/agbawo
+npm i @ibnlanre/typeof
 ```
 
 ## Import

@@ -1,5 +1,5 @@
 /*!
- * @ibnlanre/typeof-0.0.1
+ * @ibnlanre/typeof-0.0.3
  * Copyright (c) 2021 Ridwan Olanrewaju.
  * Licensed under the MIT license.
  */

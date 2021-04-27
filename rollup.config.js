@@ -2,7 +2,7 @@ import { terser } from "rollup-plugin-terser";
 import typescript from "@wessberg/rollup-plugin-ts";
 
 const banner = `/*!
- * @ibnlanre/typeof-0.0.1
+ * @ibnlanre/typeof-0.0.3
  * Copyright (c) 2021 Ridwan Olanrewaju.
  * Licensed under the MIT license.
  */`;
